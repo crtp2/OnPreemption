@@ -5,8 +5,8 @@
 
 This repository explores concurrency in various runtime environments.
 
-Loosely based on the mind-blowing talk by Saša Jurić:
-[[https://www.youtube.com/watch?v=JvBT4XBdoUE][The Soul of Erlang and Elixir]]
+Loosely based on the mind-blowing talks by Saša Jurić:
+[[https://www.youtube.com/watch?v=JvBT4XBdoUE][The Soul of Erlang and Elixir]] and [[https://www.youtube.com/watch?v=pO4_Wlq8JeI][On Solid Ground]]
 
 ** TODO Rust
 
