@@ -1,0 +1,19 @@
+#+OPTIONS: toc:nil prop:t
+#+TODO: TODO(t) | DONE(d)
+
+* On Pre-emption
+
+This repository explores concurrency in various runtime environments.
+
+Loosely based on the mind-blowing talk by Saša Jurić: [The Soul of
+Erlang and Elixir](https://www.youtube.com/watch?v=JvBT4XBdoUE&t=18s).
+
+** TODO Rust
+
+** TODO Golang
+
+** TODO Python
+
+** TODO Java
+
+*** TODO Project Loom
